@@ -162,7 +162,7 @@ nav li a:active {
 /* Programme section */
 
 .programme {
-  background-image: url("https://github.com/Bices/SkateMate-Company/blob/main/resources/images/programme-bk.jpg?raw=true");
+  background-image: url("resources/images/programme-bk.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
