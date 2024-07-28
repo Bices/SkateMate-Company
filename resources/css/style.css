@@ -162,7 +162,7 @@ nav li a:active {
 /* Programme section */
 
 .programme {
-  background-image: url("./../images/programme-bk.jpg");
+  background-image: url("../../images/programme-bk.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
